@@ -1,0 +1,67 @@
+{"properties": [
+  {
+    "name": "hystrix.command",
+    "type": "java.lang.String",
+    "description": "A description for 'hystrix.command'"
+  },
+  {
+    "name": "command",
+    "type": "java.lang.String",
+    "description": "A description for 'command'"
+  },
+  {
+    "name": "fallbackcmd",
+    "type": "java.lang.String",
+    "description": "A description for 'fallbackcmd'"
+  },
+  {
+    "name": "execution",
+    "type": "java.lang.String",
+    "description": "A description for 'execution'"
+  },
+  {
+    "name": "thread",
+    "type": "java.lang.String",
+    "description": "A description for 'thread'"
+  },
+  {
+    "name": "isolation",
+    "type": "java.lang.String",
+    "description": "A description for 'isolation'"
+  },
+  {
+    "name": "timeoutInMilliseconds",
+    "type": "java.lang.String",
+    "description": "A description for 'timeoutInMilliseconds'"
+  },
+  {
+    "name": "hystrix",
+    "type": "java.lang.String",
+    "description": "A description for 'hystrix'"
+  },
+  {
+    "name": "timeoutInMilliseconds",
+    "type": "java.lang.String",
+    "description": "A description for 'timeoutInMilliseconds'"
+  },
+  {
+    "name": "timeoutInMilliseconds",
+    "type": "java.lang.String",
+    "description": "A description for 'timeoutInMilliseconds'"
+  },
+  {
+    "name": "timeoutInMilliseconds",
+    "type": "java.lang.String",
+    "description": "A description for 'timeoutInMilliseconds'"
+  },
+  {
+    "name": "timeoutInMilliseconds",
+    "type": "java.lang.String",
+    "description": "A description for 'timeoutInMilliseconds'"
+  },
+  {
+    "name": "timeoutInMilliseconds",
+    "type": "java.lang.String",
+    "description": "A description for 'timeoutInMilliseconds'"
+  }
+]}
